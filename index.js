@@ -2,7 +2,7 @@
 
     "capstone": {
 
-        "liveLink": "<github page link>",
+        "liveLink": "<https://paulregaspi.github.io/webportfolio/>",
 
         "name": "<Paul Albert Regaspi>",
 
